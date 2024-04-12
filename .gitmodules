@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "adaptivetau"]
 	path = adaptivetau
-	url = https://github.com/cran/adaptivetau
+	url = https://github.com/plfjohnson/adaptivetau
 [submodule "devEMF"]
 	path = devEMF
 	url = https://github.com/plfjohnson/devemf
